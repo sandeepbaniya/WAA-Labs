@@ -1,5 +1,6 @@
 package com.students.domain;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 import javax.validation.Valid;
@@ -7,7 +8,9 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
 
+import net.sf.cglib.core.Local;
 import org.hibernate.validator.constraints.Email;
+import org.hibernate.validator.constraints.NotBlank;
 import org.hibernate.validator.constraints.NotEmpty;
 import org.springframework.format.annotation.DateTimeFormat;
 
@@ -16,17 +19,28 @@ public class Student {
 	
 	private Integer id;
 	
- 	private String firstName = null;
-	
+ //	@NotBlank(message="Enter First name!")
+//	@Size(min=4, max =50)
+	private String firstName = null;
+
+ //	@NotBlank
+	//@Size(min =4, max=50)
  	private  String lastName  = null;
-	
+
+ //	@NotEmpty
+//	@Valid
  	private String email = null;
-	
+
+ //	@NotBlank
  	private String gender = null;
 	
-    private Date birthday;
+
+//	@Past
+    //	@DateTimeFormat(pattern = "dd.MM.yyyy")
+ 	private Date birthday;
  
-	private Phone phone;
+//	@NotBlank
+    private Phone phone;
 
   	public Integer getId() {
 		return id;
