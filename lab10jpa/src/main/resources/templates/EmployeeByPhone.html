@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http:www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<tr th:each="emp: ${employeeSearch}">
+    <td th:text="${emp.firstName}" />
+    <td th:text="${emp.lastName}" />
+    <td th:text="${emp.address.street}" />
+    <td th:text="${emp.address.state}" />
+    <td th:text="${emp.phoneNumber}" />
+
+</tr>
+</body>
+</html>
