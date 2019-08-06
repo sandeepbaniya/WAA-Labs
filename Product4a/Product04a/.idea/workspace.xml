@@ -7,31 +7,95 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b003dd5-dc79-4f99-a4a0-feb371e71060" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/target/classes/mum/edu/controller/CalculatorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/target/classes/mum/edu/controller/CalculatorController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/target/classes/mum/edu/domain/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/target/classes/mum/edu/domain/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/target/classes/mum/edu/service/CalculatorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/target/classes/mum/edu/service/CalculatorService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/target/classes/mum/edu/service/impl/CalculatorServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5_CalculatorControllerPRG/CalculatorControllerPRG/target/classes/mum/edu/service/impl/CalculatorServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/src/main/java/com/students/contoller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/src/main/java/com/students/contoller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/src/main/java/com/students/contoller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/src/main/java/com/students/contoller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/src/main/java/com/students/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/src/main/java/com/students/domain/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/src/main/webapp/WEB-INF/views/registration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/src/main/webapp/WEB-INF/views/registration.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/classes/com/students/contoller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/classes/com/students/contoller/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/classes/com/students/contoller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/classes/com/students/contoller/StudentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/classes/com/students/domain/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/classes/com/students/domain/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/classes/com/students/domain/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/classes/com/students/domain/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/m2e-wtp/web-resources/META-INF/maven/com.packt/webstore/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/m2e-wtp/web-resources/META-INF/maven/com.packt/webstore/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/m2e-wtp/web-resources/META-INF/maven/edu.mum/Lab7_Valid/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab6_Valid/Lab7_Valid/target/m2e-wtp/web-resources/META-INF/maven/edu.mum/Lab7_Valid/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab5_StarBucks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5_StarBucks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab5_StarBucks/target/lab5_StarBucks.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5_StarBucks/target/lab5_StarBucks.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10springjpa/src/main/java/waa/labs/spring/lab10springjpa/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/artifacts/untitled_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/java/edu/mum/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/java/edu/mum/controller/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/java/edu/mum/domain/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/java/edu/mum/domain/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/java/edu/mum/domain/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/java/edu/mum/interceptor/ProcessingTimeLogInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/java/edu/mum/validator/MemberValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/resources/errorMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/resources/message_np.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/webapp/WEB-INF/config/springmvc-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/webapp/WEB-INF/jsp/EmployeeDetails.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/webapp/WEB-INF/jsp/EmployeeForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/webapp/WEB-INF/jsp/MemberDetails.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/webapp/WEB-INF/jsp/MemberForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/webapp/WEB-INF/jsp/error.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/webapp/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/webapp/images/Puppet404.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/src/main/webapp/images/error_page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/classes/edu/mum/controller/EmployeeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/classes/edu/mum/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/classes/edu/mum/domain/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/classes/edu/mum/domain/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/classes/edu/mum/domain/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/classes/edu/mum/interceptor/ProcessingTimeLogInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/classes/edu/mum/validator/MemberValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/classes/errorMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/classes/message_np.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/config/springmvc-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/jsp/EmployeeDetails.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/jsp/EmployeeForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/jsp/MemberDetails.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/jsp/MemberForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/jsp/error.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/classmate-1.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/commons-fileupload-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/commons-io-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/hibernate-validator-6.0.16.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/spring-aop-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/spring-beans-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/spring-context-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/spring-core-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/spring-expression-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/spring-webmvc-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/lib/validation-api-2.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/images/Puppet404.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/EmployeeValidDemo/images/error_page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/classes/edu/mum/controller/EmployeeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/classes/edu/mum/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/classes/edu/mum/domain/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/classes/edu/mum/domain/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/classes/edu/mum/domain/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/classes/edu/mum/interceptor/ProcessingTimeLogInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/classes/edu/mum/validator/MemberValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/classes/errorMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7_EmployeeValid/target/classes/message_np.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab8springboot/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab8springboot/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab8springboot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab8springboot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab8springboot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab8springboot/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,11 +106,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/controller/ProductController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-119">
+            <state relative-caret-position="17">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
@@ -54,9 +118,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/ProductForm.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -71,7 +133,18 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Product4a" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1939" />
@@ -83,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,13 +238,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -278,33 +352,24 @@
       <option name="presentableId" value="Default" />
       <updated>1564512791314</updated>
       <workItem from="1564512793380" duration="826000" />
+      <workItem from="1565055380295" duration="210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="826000" />
+    <option name="totallyTimeSpent" value="1036000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.32956153" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
@@ -312,32 +377,39 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/ProductForm.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/mum/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
+        <state relative-caret-position="17">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/ProductForm.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
