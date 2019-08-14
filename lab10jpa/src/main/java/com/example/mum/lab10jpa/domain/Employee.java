@@ -8,6 +8,7 @@ import lombok.Setter;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotEmpty;
+import java.util.List;
 
 
 @Data
@@ -31,7 +32,7 @@ public class Employee {
 
     @OneToOne(cascade = CascadeType.ALL)
     @JoinColumn(name="emp_address", nullable = false)
-    private Address address;
+    private List<Address> address;
 
 
 
